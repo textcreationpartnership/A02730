@@ -35,9 +35,32 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The tragicall life and death of Muley Abdala Melek the late King of Barbarie With a proposition, or 
+
+1. TO THE MOST
+ILLVSTRIOVS, AND HOPEFVLL
+young Prince CHARLES Prince Elector
+Palatine of the Rhyne, &c.
+
 #####Body#####
-The tragicall life and death of Muley Abdala Melek the late King of Barbarie With a proposition, or 
+
+1. THE LIFE
+AND DEATH OF
+MVLEY ABDALA MELEK,
+the late King of Barbarie.
+
+1. A PROPOSITION, AND PETITION TO ALL CHRISTIAN
+Princes, and States, Professours, and Defenders of the true
+Christian faith, against all Antichristian povvers and
+principallities: As vvell the Pope, and his adherents, as
+the Turk, & his Vassals, the Mahometans: both the one, &
+the other, novv in these last daies, to be vtterly destroyed:
+and the Kingdome of Iesus Christ to be erected neuer to
+be destroyed: but to indure, and triumph euen to the end
+of the VVorld, according to Daniels Prophecie 2. 44.
+And our Sauiours likevvise: Mat. 24. 14. This Gospel of
+the Kingdome shall be preached in all the vvorld, for a
+vvitnes vnto all nations, and then shall the end come.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
